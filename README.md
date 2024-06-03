@@ -1,2 +1,1 @@
-# Cotri-MERN
-Cotri full-stack web development using MERN Stack
+# peakVideo24-Fuse
